@@ -16,6 +16,10 @@ This GitHub repository contains a Solidity smart contract developed using TypeSc
 - Deploy the contract using `yarn deploy`.
 - Explore and adapt the contract for your specific use cases.
 
+**Important Note:**
+- This smart contract is designed to work on the Ethereum test network (Sepolia) only. Please do not use your real eth.
+
+
 **Commands:**
 
 - Build the project: `yarn build`
