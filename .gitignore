@@ -10,3 +10,4 @@ cache
 artifacts
 dist
 
+hardhat.config.js
